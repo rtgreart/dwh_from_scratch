@@ -1,0 +1,16 @@
+[project]
+name = "hands-on"
+version = "0.1.0"
+description = "RetailCo — Hands-on data platform"
+requires-python = ">=3.11"
+
+dependencies = [
+    "faker>=24.0.0",
+    "psycopg2-binary>=2.9.0",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=8.0.0",
+    "pyspark>=3.5.0",
+]

@@ -1,0 +1,9 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Dati sintetici — rigenerati da src/modeling/generate_data.py
+data/*
+!data/.gitkeep
