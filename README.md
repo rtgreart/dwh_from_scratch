@@ -52,7 +52,7 @@ dwh_from_scratch/
 ### 1. Clona il repository
 
 ```powershell
-git clone <REPO-URL>
+git clone https://github.com/rtgreart/dwh_from_scratch.git
 cd dwh_from_scratch
 ```
 
